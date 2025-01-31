@@ -9,3 +9,7 @@ que si no es un espacio
 que escriba directamente lo que has escrito
 aqui nos dice que cada vez que se presione una tecla se ejecute la funcion pressedkey
 y en este nos dice que espere hasta que se reciba un valor como una tecla o una accion
+
+mejoras
+podriamos incluir que nos diga en que aplicacion se mete 
+tambien las teclas del raton el que ha echo con cada click 
